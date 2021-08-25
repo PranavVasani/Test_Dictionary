@@ -4,6 +4,8 @@ Dictionary
 
 I have created a Bat file which will help the user to directly open the dictionary on CMD 
 
+You can access the Bat file inside Maven_project >>  SRC/main/java folder 
+
 once user types the desired word for example : WORKING 
 
 It will show WORK, KING, ROW , RING without duplicating it.
